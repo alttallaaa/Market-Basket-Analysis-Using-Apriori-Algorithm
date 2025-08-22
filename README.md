@@ -11,7 +11,7 @@ Provide insights for product placement and sales strategy improvement.
 
 ⚙️ Tech Stack & Libraries
 
-Language: Python 3.x
+Language: Python 3
 
 Libraries:
 
