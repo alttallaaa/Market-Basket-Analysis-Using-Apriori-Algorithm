@@ -21,4 +21,3 @@ mlxtend → Apriori & association rule implementation
 
 matplotlib / seaborn → data visualization
 
-networkx (optional) → association rule graph
